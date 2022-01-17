@@ -1,0 +1,3 @@
+*.mbtiles
+node_modules/*
+!node_modules/sql.js-httpvfs

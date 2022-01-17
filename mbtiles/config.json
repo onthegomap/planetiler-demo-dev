@@ -1,0 +1,10 @@
+
+{
+    "serverMode": "chunked",
+    "requestChunkSize": "1024",
+    "databaseLengthBytes": 518855680,
+    "serverChunkSize": 52428800,
+    "urlPrefix": "1642421014-PART-",
+    "suffixLength": 3
+}
+
